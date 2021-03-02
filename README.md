@@ -18,7 +18,7 @@ Deployment using firebase!
 
 In the project directory, you can run:
 
-# expo start
+``expo start``
 
 Runs the app in the development mode.
 Open http://localhost:19002 to view it in the browser.
