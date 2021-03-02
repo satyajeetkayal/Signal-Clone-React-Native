@@ -18,14 +18,14 @@ Deployment using firebase!
 
 In the project directory, you can run:
 
-# expo start
+# expostart
 
 Runs the app in the development mode.
 Open http://localhost:19002 to view it in the browser.
 
 Once the page is loaded either scan the QR code generated using expo client app installed in your phone. Or you can start a web simulator depending upon your convenience
 
-# expo build:web
+# expobuild:web
 
 Builds the app for production to the web-build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
