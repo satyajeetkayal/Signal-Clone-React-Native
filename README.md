@@ -1,10 +1,10 @@
-# signal-clone
+# Signal-clone
 
 This signal clone project bootstrapped with Expo React Native.
 
 The project is hosted at: https://signal-clone-app-d7eef.web.app/
 
-# Technologies used:
+# The following Technologies were used to develop this application
 
 ```
 1. Expo React Native
