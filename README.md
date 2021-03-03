@@ -6,14 +6,16 @@ The project is hosted at: https://signal-clone-app-d7eef.web.app/
 
 # Technologies used:
 
-Expo React Native
-Firebase realtime database
-Expo Icon Pack
-React-native-navigation
-React-native-elements
-React-native-gesture-handler
-Authentication using Email and Password
-Deployment using firebase!
+```
+1. Expo React Native
+2. Firebase realtime database
+3. Expo Icon Pack
+4. React-native-navigation
+5. React-native-elements
+6. React-native-gesture-handler
+7. Authentication using Email and Password
+8. Deployment using firebase!
+```
 
 # Available project Scripts
 
