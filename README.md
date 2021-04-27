@@ -4,6 +4,8 @@ This signal clone project bootstrapped with Expo React Native.
 
 The project is hosted at: https://signal-clone-app-d7eef.web.app/
 
+There is apk file download link --> https://1drv.ms/u/s!AonVuqdJuR_sdER4tUZuTXhXATg?e=V7qaR5
+
 # The following Technologies were used to develop this application
 
 ```
